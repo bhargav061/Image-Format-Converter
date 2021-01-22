@@ -111,7 +111,7 @@ app.get('/convert', function(req, res){
 
     })
 
-    res.status(200).send("Converting Files... Wait for few minuted before downloading");
+    res.status(200).send("Converting Files... Wait for few minutes before downloading");
 
 })
 
